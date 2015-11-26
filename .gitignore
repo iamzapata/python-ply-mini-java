@@ -1,0 +1,4 @@
+.idea/
+examples/**
+examples/*
+.DS_Store
