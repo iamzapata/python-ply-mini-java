@@ -5,3 +5,4 @@ examples/*
 *pyc
 parsetab.py
 parser.out
+ply/*.pyc
